@@ -2,7 +2,7 @@ import gestor
 
 while True:
     gestor.menu()
-    opcion=int(input("Elige una opcion: "))
+    opcion=int(input("Elige una opción: "))
     if opcion==1:
         gestor.agregar()
     elif opcion==2:
@@ -15,7 +15,7 @@ while True:
         print("Saliendo del programa...")
         break
     else:
-        print("\nOpcion no valida. Intentelo de nuevo.")
+        print("\nOpción no válida. Intentelo de nuevo.")
 
 
 #Capturas en classroom, codigo en github, el enlace del github en classroom
