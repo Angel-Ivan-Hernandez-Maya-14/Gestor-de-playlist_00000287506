@@ -17,5 +17,4 @@ while True:
     else:
         print("\nOpción no válida. Intentelo de nuevo.")
 
-
 #Capturas en classroom, codigo en github, el enlace del github en classroom
